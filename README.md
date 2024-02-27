@@ -34,10 +34,3 @@ The dataset used in this analysis includes several features such as:
 The main goal of the analysis is to explore the following question:
 
 * How do factors such as experience level, type of employment, professional role, location of residence and work, proportion of remote work, and organizational size influence the variations in salary, when measured in USD?
-
-
-**Conclusion**
-
-While certain trends and correlations emerge, such as experience influencing salary and remote positions paying slightly higher, the dataset's limitations necessitate cautious interpretation. Further studies encompassing a broader set of factors may provide a more holistic understanding of the observed salary dynamics.
-
-For detailed conclusions, please refer to the Final Conclusions section in the notebook.
