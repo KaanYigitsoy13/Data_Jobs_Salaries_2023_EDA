@@ -35,16 +35,6 @@ The main goal of the analysis is to explore the following question:
 
 * How do factors such as experience level, type of employment, professional role, location of residence and work, proportion of remote work, and organizational size influence the variations in salary, when measured in USD?
 
-**Key Findings**
-
-Some of the key findings from the analysis include:
-
-* A moderate connection between an individual's experience and their salary.
-* Remote positions slightly leading in average salary offerings.
-* Medium-sized businesses emerging as the top paymasters.
-* Salary disparities across job titles.
-* Location-based salary variations.
-
 
 **Conclusion**
 
