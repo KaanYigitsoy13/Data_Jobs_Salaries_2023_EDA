@@ -14,6 +14,10 @@ This repository contains an analysis exploring how various factors such as exper
 * Conclusion
 
 
+**Notebook**
+https://github.com/KaanYigitsoy13/Data_Jobs_Salaries_2023_EDA/blob/main/salary_influence_factors_analysis_2023.ipynb
+
+
 **Introduction**
 
 In today's rapidly evolving job market, understanding the factors that influence salary can provide valuable insights for both job seekers and employers. This analysis seeks to uncover patterns and trends that explain variations in salary across different demographics and job characteristics.
