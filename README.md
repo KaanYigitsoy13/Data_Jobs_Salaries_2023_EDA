@@ -6,13 +6,6 @@ Salary Influence Factors Analysis (2023)
 
 This repository contains an analysis exploring how various factors such as experience level, type of employment, professional role, location of residence and work, proportion of remote work, and organizational size influence variations in salary, when measured in USD. The primary focus of the analysis is on data from the year 2023.
 
-* Table of Contents
-* Introduction
-* Data
-* Analysis Purpose
-* Key Findings
-* Conclusion
-
 
 **Notebook**
 https://github.com/KaanYigitsoy13/Data_Jobs_Salaries_2023_EDA/blob/main/salary_influence_factors_analysis_2023.ipynb
